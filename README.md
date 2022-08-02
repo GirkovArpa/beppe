@@ -10,8 +10,16 @@
   tiny alternative to puppeteer
 </h3>
 
+## Installation
+
+```
+npm i beppe
+```
+
+## Usage
+
 ```javascript
-import Beppe from './beppe.js';
+import Beppe from 'beppe';
 
 main();
 
