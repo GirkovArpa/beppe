@@ -1,0 +1,32 @@
+{
+  "name": "beppe",
+  "version": "0.1.0",
+  "description": "tiny alternative to puppeteer",
+  "main": "index.js",
+  "keywords": [
+    "chrome",
+    "devtools",
+    "protocol",
+    "cdp",
+    "puppeteer",
+    "automation",
+    "browser",
+    "lightweight",
+    "tiny",
+    "small"
+  ],
+  "author": "GirkovArpa",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GirkovArpa/beppe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GirkovArpa/beppe/issues"
+  },
+  "homepage": "https://github.com/GirkovArpa/beppe#readme"
+}
